@@ -1,0 +1,10 @@
+[
+  {
+  "workoutName": "Push", 
+  "exercises": ["Bench Press", "Pushdowns"]
+  },
+  {
+  "workoutName": "Pull", 
+  "exercises": ["Pulldowns", "Rowing"]
+  }
+]
