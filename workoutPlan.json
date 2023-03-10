@@ -1,10 +1,20 @@
 [
   {
-  "workoutName": "Push", 
-  "exercises": ["Bench Press", "Pushdowns"]
+    "workoutName": "Push",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "maxSets": "3"
+      }
+    ]
   },
   {
-  "workoutName": "Pull", 
-  "exercises": ["Pulldowns", "Rowing"]
+    "workoutName": "Pull", 
+    "exercises": [
+      {
+        "name": "Pulldowns",
+        "maxSets": "3"
+      }
+    ]
   }
 ]
