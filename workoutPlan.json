@@ -7,14 +7,5 @@
         "maxSets": 3
       }
     ]
-  },
-  {
-    "workoutName": "Pull", 
-    "exercises": [
-      {
-        "name": "Pulldowns",
-        "maxSets": 3
-      }
-    ]
   }
 ]
