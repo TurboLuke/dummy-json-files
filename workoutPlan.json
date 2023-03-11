@@ -5,6 +5,19 @@
       {
         "name": "Bench Press",
         "maxSets": 3
+      },
+       {
+        "name": "Arnold Press",
+        "maxSets": 3
+      }
+    ]
+  },
+   {
+    "workoutName": "Pull",
+    "exercises": [
+      {
+        "name": "pulldown",
+        "maxSets": 3
       }
     ]
   }
