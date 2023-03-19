@@ -1,24 +1,128 @@
 [
-  {
-    "workoutName": "Push",
-    "exercises": [
-      {
-        "name": "Bench Press",
-        "maxSets": 3
-      },
-       {
-        "name": "Arnold Press",
-        "maxSets": 3
-      }
-    ]
-  },
-   {
-    "workoutName": "Pull",
-    "exercises": [
-      {
-        "name": "pulldown",
-        "maxSets": 3
-      }
-    ]
-  }
+
+	{
+		"workoutName": "Beine",
+		"exercises": [{
+				"name": "Kniebeugen mit Langhantel",
+				"maxSets": 3
+			},
+			{
+				"name": "Beinpresse",
+				"maxSets": 2
+			},
+			{
+				"name": "Rumänisches Kreuzheben",
+				"maxSets": 2
+			},
+			{
+				"name": "Wadenheben stehend",
+				"maxSets": 3
+			},
+			{
+				"name": "Wadenheben sitzend",
+				"maxSets": 2
+			}
+		]
+	},
+
+	{
+		"workoutName": "Arme & Bauch",
+		"exercises": [{
+				"name": "Langhantel Curls",
+				"maxSets": 2
+			},
+			{
+				"name": "Hammer Curls",
+				"maxSets": 2
+			},
+			{
+				"name": "Preacher Curls",
+				"maxSets": 1
+			},
+			{
+				"name": "Langhantel Bankdrücken (enger Griff)",
+				"maxSets": 2
+			},
+			{
+				"name": "Dips",
+				"maxSets": 2
+			},
+			{
+				"name": "Unterarm Curls (Untergriff)",
+				"maxSets": 2
+			},
+			{
+				"name": "Unterarm Curls (Obergriff)",
+				"maxSets": 2
+			},
+			{
+				"name": "Decline Sit-ups mit Gewicht",
+				"maxSets": 2
+			},
+			{
+				"name": "Beinheben mit Gewicht",
+				"maxSets": 2
+			}
+		]
+	},
+	{
+		"workoutName": "Schultern",
+		"exercises": [{
+				"name": "Schulterpresse",
+				"maxSets": 3
+			},
+			{
+				"name": "Aufrechtes Rudern",
+				"maxSets": 2
+			},
+			{
+				"name": "Seitheben",
+				"maxSets": 2
+			},
+			{
+				"name": "Shrugs mit Kurzhanteln",
+				"maxSets": 2
+			},
+			{
+				"name": "Langhantel Shrugs",
+				"maxSets": 2
+			}
+		]
+	},
+	{
+		"workoutName": "Brust",
+		"exercises": [{
+				"name": "Bankdrücken mit Langhantel",
+				"maxSets": 3
+			},
+			{
+				"name": "Fliegende Kurzhantel",
+				"maxSets": 3
+			},
+			{
+				"name": "Schrägbankdrücken Kurzhantel",
+				"maxSets": 3
+			}
+		]
+	},
+	{
+		"workoutName": "Rücken",
+		"exercises": [{
+				"name": "Klimmzüge",
+				"maxSets": 3
+			},
+			{
+				"name": "Langhantel Rudern (vorgebeugt)",
+				"maxSets": 3
+			},
+			{
+				"name": "Latziehen am Kabelzug",
+				"maxSets": 3
+			},
+			{
+				"name": "Hyperextensions",
+				"maxSets": 3
+			}
+		]
+	}
 ]
